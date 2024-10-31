@@ -151,6 +151,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - Nguyen Minh Tien
+Author Name - Nguyen Minh Tien
 
 Project Link: https://github.com/MinhTienTH/AI-Problem---Meeting-Scheduler-System.git
